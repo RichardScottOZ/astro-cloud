@@ -36,7 +36,7 @@ for header in load_headers(url, CloudService.S3, PaymentSolution.AWSRequestPayer
 
 ```
 
-### Loading Headers from you're own Static Storage Service and not AWS, GCP, Azure, or Digital Ocean
+### Loading Headers from your own Static Storage Service and not AWS, GCP, Azure, or Digital Ocean
 
 ```
 #!/usr/bin/env python
